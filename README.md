@@ -47,6 +47,16 @@ Docker | Git | Linux | Uvicorn | ONNX Runtime
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhyani2206&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhyani2206&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyani2206&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyani2206&layout=compact&theme=tokyonight&hide_border=true)
+
+## 📫 Let's Connect  
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/dhyanipanchal]
+- 📧 Email: panchaldhyani22@gmail.com
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Machine Learning](https://img.shields.io/badge/ML-Engineer-green)
+![LLM](https://img.shields.io/badge/LLM-RAG-orange)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-teal)
