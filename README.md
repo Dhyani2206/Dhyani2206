@@ -45,12 +45,6 @@ Docker | Git | Linux | Uvicorn | ONNX Runtime
 - Improved unsafe session detection by ~45%  
 - Applied threshold tuning + imbalance handling for high-risk sensitivity
 
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhyani2206&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhyani2206&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 📫 Let's Connect  
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/dhyanipanchal]
