@@ -25,10 +25,10 @@ PyTorch | Scikit-learn | XGBoost | LightGBM | PEFT | LoRA
 LLaMA | Mistral | FAISS | LangChain | Retrieval-Augmented Generation  
 
 **Backend & Systems:**  
-FastAPI | REST APIs | Microservices | Event-driven architecture  
+FastAPI | REST APIs | Event-driven architecture  
 
 **Tools & Infra:**  
-Docker | Git | Linux | Uvicorn | ONNX Runtime  
+Docker | Git | Linux | Uvicorn 
 
 
 ## 🚀 Featured Projects  
