@@ -1,5 +1,5 @@
 # Dhyani Keyur Panchal 
-### AI/ML Engineer | LLM Systems | Backend @ Scale  
+### AI/ML Engineer | LLM Systems  
 
 🚀 Building reliable, production-grade AI systems  
 🧠 Focused on LLMs, RAG pipelines, and real-world ML  
